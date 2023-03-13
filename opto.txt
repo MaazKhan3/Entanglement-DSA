@@ -1,0 +1,4 @@
+mute /unmute
+write about controls
+music change 
+press backspace to return
